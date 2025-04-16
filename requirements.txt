@@ -1,0 +1,43 @@
+# Core requirements for NeuroSync Player
+pygame>=2.6.0          # Audio playback and visualization
+keyboard>=0.13.5       # Keyboard input handling
+requests>=2.31.0       # HTTP requests for API communication
+numpy>=1.24.0          # Numerical computations
+PyAudio>=0.2.13        # Audio recording
+scipy>=1.11.0          # Signal processing
+soundfile>=0.12.1      # Audio file handling
+pydub>=0.25.1          # Audio processing
+flask>=2.3.0           # Web server for API endpoints
+io                     # Standard library
+threading              # Standard library
+queue                  # Standard library
+time                   # Standard library
+json                   # Standard library
+traceback              # Standard library
+os                     # Standard library
+sys                    # Standard library
+random                 # Standard library
+
+# TTS (Text-to-Speech) requirements
+kokoro>=0.8.2          # Kokoro TTS for high-quality speech synthesis
+# Dependencies specific to Kokoro
+BytesIO                # Standard library
+
+# STT (Speech-to-Text) requirements
+faster-whisper>=0.9.0  # Local speech recognition using Whisper models
+
+# AI requirements
+openai>=1.0.0          # OpenAI client for API access (for ChatGPT)
+
+# Vector Database (when enabled)
+# sentence-transformers>=2.2.2  # Uncomment if using vector DB feature
+
+# Environment and setup tools
+importlib              # Standard library
+platform               # Standard library
+subprocess             # Standard library
+warnings               # Standard library
+
+# Recommended external dependencies (not pip-installable):
+# - ffmpeg: Required for audio processing
+# - ollama: Required for local LLM support (https://ollama.com/) 
