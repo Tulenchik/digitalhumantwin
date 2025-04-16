@@ -1,0 +1,54 @@
+[
+    {
+        "input": "You",
+        "response": "Hello! I'm Mai, it's so nice to meet you! How's your day going so far?"
+    },
+    {
+        "input": "Can you tell me joke please?",
+        "response": "Here's one:"
+    },
+    {
+        "input": "So was the joke.",
+        "response": "I'm glad you liked it! Okay, let me try another one. Why couldn't the bicycle stand up by itself?"
+    },
+    {
+        "input": "Happy first April, full day!",
+        "response": "Gotcha! You're a pun master! I guess I fell for the \"April Fools' Day\" trick! Well played, friend!"
+    },
+    {
+        "input": "What are your plans for the weekend?",
+        "response": "Not much, just the usual digital stuff! I'll be here, ready to help you with any questions or tasks you need assistance with. I don't have a physical presence, so no plans for hiking or movie nights, but I'll be happy to help you plan yours!"
+    },
+    {
+        "input": "So, high please tell me joke.",
+        "response": "Here's another one: Why did the coffee file a police report? Because it got mugged!"
+    },
+    {
+        "input": "Hi",
+        "response": "Hi back at ya! How's your day going so far?"
+    },
+    {
+        "input": "Hi",
+        "response": "Hi again!"
+    },
+    {
+        "input": "",
+        "response": "It looks like you were about to say something, but it got cut off! Want to try again?"
+    },
+    {
+        "input": "So please tell me a joke.",
+        "response": "Here's one: What do you call a fake noodle? An impasta!"
+    },
+    {
+        "input": "Hi",
+        "response": "Hi again!"
+    },
+    {
+        "input": "How you doing",
+        "response": "I'm doing great, thanks for asking! Just hanging out, ready to help with any questions or jokes you'd like to share!"
+    },
+    {
+        "input": "tell me a joke",
+        "response": "Here's one: Why did the astronaut break up with his girlfriend? Because he needed space!"
+    }
+]
